@@ -1,0 +1,4 @@
+sources:
+  - path: "/{{.Env.GOROOT}}/lib/time"
+    prefix: _
+    ns: "golib/time"
